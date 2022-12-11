@@ -1,0 +1,22 @@
+#button_types{
+    text-align: center;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .formulario{
+    height: 100px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background-color: lightgray;
+  }
+      
+
